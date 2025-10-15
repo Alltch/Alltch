@@ -17,7 +17,7 @@
     <li>Passionate about various technologies including Django, RESTful and more</li>
     <li>Proficient in Adobe Creative Suite tools like Photoshop  and more</li>
     <li>Active on social media 
-        <a href="https://t.me/alltchumb">Telegram</a> and 
-        <a href="https://instagram.com/_alltch_">Instagram</a>
+        <a href="https://t.me/aumbetov">Telegram</a> and 
+        <a href="https://instagram.com/al_umbetov">Instagram</a>
     </li>
 </ul>
