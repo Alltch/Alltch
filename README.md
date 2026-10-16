@@ -1,9 +1,5 @@
 # Altynbek Umbetov
 
-**Python Developer** · Django · REST APIs · Telegram bots
-
-Available for freelance projects. [Message me on Telegram](https://t.me/aumbetov).
-
 ---
 
 ## Services
@@ -42,15 +38,3 @@ Data Science and Computer Science
 **[Sports Match Finder Bot](https://github.com/Alltch/sports-match-finder-bot)**
 Telegram bot that finds today's football, tennis, basketball, handball and ice hockey matches through SofaScore and lets the user pick one.
 Python · Telegram Bot API · Docker · Railway
-
-## GitHub stats
-
-<p>
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alltch&hide_border=true&count_private=true" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alltch&layout=compact&hide_border=true" />
-</p>
-
-## Contact
-
-- Telegram: [@aumbetov](https://t.me/aumbetov)
-- Instagram: [@al_umbetov](https://instagram.com/al_umbetov)
