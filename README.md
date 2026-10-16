@@ -1,38 +1,51 @@
-<h1 align="center">Altynbek Umbetov</h1>
+# Altynbek Umbetov
 
-<p align="center">
-  Python developer building web backends and Telegram bots.<br>
-  I like turning bold ideas into small, working products.
-</p>
+**Python Developer** · Django · REST APIs · Telegram bots
 
-<p align="center">
-  <a href="https://t.me/aumbetov"><img src="https://img.shields.io/badge/Telegram-@aumbetov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://instagram.com/al_umbetov"><img src="https://img.shields.io/badge/Instagram-al__umbetov-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+Available for freelance projects. [Message me on Telegram](https://t.me/aumbetov).
 
 ---
 
-## About
+## Services
 
-- Computer Science graduate with 1.2 years of experience as a Python developer
-- Focused on Django and REST APIs
-- Comfortable with Adobe Creative Suite (Photoshop and more), so I care about how things look as well as how they work
+- **Web backends** - Django applications, admin panels and REST APIs
+- **Telegram bots** - from simple assistants to bots backed by external data sources
+- **Data parsing and automation** - collecting, cleaning and delivering data
+- **Deployment** - Docker-based setups, hosting on platforms such as Railway
+
+## Experience
+
+**Python Developer** - 1.2 years of professional experience
+Building web applications and REST APIs with Python and Django.
+
+## Education
+
+Degree in Computer Science
 
 ## Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-24292f?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-24292f?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-24292f?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-## Featured project
+## Selected work
 
 **[Sports Match Finder Bot](https://github.com/Alltch/sports-match-finder-bot)**
-A Telegram bot that finds today's football, tennis, basketball, handball and ice hockey matches via SofaScore and lets you pick one.
+Telegram bot that finds today's football, tennis, basketball, handball and ice hockey matches through SofaScore and lets the user pick one.
+Python · Telegram Bot API · Docker · Railway
 
----
+## GitHub stats
 
-<p align="center"><sub>Open to interesting projects and collaboration. Message me on Telegram.</sub></p>
+<p>
+  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alltch&hide_border=true&count_private=true" />
+  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alltch&layout=compact&hide_border=true" />
+</p>
+
+## Contact
+
+- Telegram: [@aumbetov](https://t.me/aumbetov)
+- Instagram: [@al_umbetov](https://instagram.com/al_umbetov)
