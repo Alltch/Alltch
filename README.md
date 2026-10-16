@@ -20,7 +20,8 @@ Building web applications and REST APIs with Python and Django.
 
 ## Education
 
-Degree in Computer Science
+- Degree in Computer Science
+- Data Science (currently studying)
 
 ## Tech stack
 
