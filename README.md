@@ -32,9 +32,3 @@ Data Science and Computer Science
 ![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-24292f?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-## Selected work
-
-**[Sports Match Finder Bot](https://github.com/Alltch/sports-match-finder-bot)**
-Telegram bot that finds today's football, tennis, basketball, handball and ice hockey matches through SofaScore and lets the user pick one.
-Python · Telegram Bot API · Docker · Railway
