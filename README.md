@@ -12,7 +12,7 @@
 
 ## Experience
 
-**Python Developer** - 1.2 years of professional experience
+**Python Developer** - 1.2 years of hands-on experience
 Building web applications and REST APIs with Python and Django.
 
 ## Education
